@@ -1,16 +1,13 @@
-# Hiroshi Nagaya
+# <div align="center">Hiroshi Nagaya</div>
 
-## AI & Computer Vision Engineer
-
-<div align="center">
+<!-- <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Condiment&size=28&pause=1000&color=DF1AF7&background=32FF3000&width=435&lines=%E2%9A%A1Computer+Vision%7C%7CML%7C%7CDL+Developer%E2%9A%A1" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <img src="Skills_Animation_White.gif" alt="Skills Animation" width="600" />
-</div>
+</div> -->
 
----
 
 ## About Me
 
@@ -49,16 +46,15 @@
 - **Mobile AI**: On-device ML models, TensorFlow Lite for offline AI capabilities
 - **App Architecture**: MVVM, Clean Architecture, state management for maintainable code
 - **Performance Optimization**: Memory management, battery optimization, app performance tuning
-
+<!-- 
 #### **Blockchain Development**
 
 - **Smart Contracts**: Solidity, Rust, Hardhat development for decentralized applications
 - **DeFi Protocols**: DEX, yield farming, liquidity pools for financial applications
 - **Web3 Integration**: MetaMask, WalletConnect, blockchain APIs for user interactions
 - **Security**: Smart contract auditing, vulnerability assessment for secure deployments
-- **Blockchain Infrastructure**: Node operation, consensus mechanisms for network participation
+- **Blockchain Infrastructure**: Node operation, consensus mechanisms for network participation -->
 
----
 
 ## Technical Skills
 
@@ -66,10 +62,10 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pytorch](https://img.shields.io/badge/Pytorch-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Matlab](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=matlab&logoColor=white)
+![Huggingface](https://img.shields.io/badge/Huggingface-20BEFF?style=for-the-badge&logo=huggingface&logoColor=white)
 
 ### **Web Development**
 
@@ -88,12 +84,6 @@
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 
-### **Blockchain & Backend**
-
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-000000?style=for-the-badge&logo=hardhat&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-
 ### **Databases & Cloud**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -108,7 +98,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
 
 ---
 
@@ -125,7 +115,7 @@
 
 ## Connect With Me
 
-[![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/phornix_95107)
+[![Telegram](https://img.shields.io/badge/Gmail-0088cc?style=for-the-badge&logo=gmail&logoColor=white)](hiroshinagaya760@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Phoenix_95107)
 
 ---
