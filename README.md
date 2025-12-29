@@ -115,7 +115,7 @@
 
 ## Connect With Me
 
-[![Telegram](https://img.shields.io/badge/Gmail-0088cc?style=for-the-badge&logo=gmail&logoColor=white)](hiroshinagaya760@gmail.com)
+[![Telegram](https://img.shields.io/badge/Gmail-0088cc?style=for-the-badge&logo=gmail&logoColor=white)](phoenixryan1111@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Phoenix_95107)
 
 ---
